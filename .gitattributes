@@ -2,3 +2,6 @@ docs/* linguist-vendored
 
 *.txt linguist-vendored
 *.md linguist-vendored
+
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=JavaScript
